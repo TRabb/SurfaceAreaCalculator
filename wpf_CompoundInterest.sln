@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wpf_CompoundInterest", "wpf_CompoundInterest\wpf_CompoundInterest.csproj", "{D15AD839-19D9-4513-A305-671A8ED7A40D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D15AD839-19D9-4513-A305-671A8ED7A40D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D15AD839-19D9-4513-A305-671A8ED7A40D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D15AD839-19D9-4513-A305-671A8ED7A40D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D15AD839-19D9-4513-A305-671A8ED7A40D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31C870F6-7807-49F4-B0FB-1CBD82FD2BEB}
+	EndGlobalSection
+EndGlobal
